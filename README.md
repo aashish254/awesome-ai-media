@@ -178,6 +178,8 @@
 |---------|-------|-------|-------------|
 | [Remotion](https://github.com/remotion-dev/remotion) | ![](https://img.shields.io/github/stars/remotion-dev/remotion?style=flat-square) | ⭐ A | Create videos programmatically using React — server-side rendering + Lambda |
 | [Helios](https://github.com/BintzGavin/helios) | ![](https://img.shields.io/github/stars/BintzGavin/helios?style=flat-square) | ⭐ B | Browser-native video framework that leans on real Web Animations and WebCodecs instead of screenshot-style rendering, with CSS-friendly motion, diagnostics, benchmarks, and TypeScript docs. |
+| **AniFlow** | Self-hosted AI studio that turns manhwa/webtoon chapters into narrated recap videos | [GitHub](https://github.com/aashish254/Aniflow)|
+
 
 ## Video Editing Libraries
 
